@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.streamlit/secrets.toml
+*.log
+# Keep data/ and index/ tracked for the hosted demo.
+fix_*.py
+diag*

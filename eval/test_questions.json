@@ -1,0 +1,13 @@
+[
+  {"id":"pk1","question":"How much assistance does PM-KISAN provide?","answerable":true,"expected_source_file":"PMKisanSamanNidhi.pdf","expected_page":null,"manual_answer_accuracy":null},
+  {"id":"pk2","question":"Who can receive PM-KISAN benefits?","answerable":true,"expected_source_file":"RevisedPM-KISANOperationalGuidelines(English).pdf","expected_page":null,"manual_answer_accuracy":null},
+  {"id":"jay1","question":"What health cover does PM-JAY provide?","answerable":true,"expected_source_file":"ayush.pdf","expected_page":null,"manual_answer_accuracy":null},
+  {"id":"jay2","question":"What are the eligibility rules for PM-JAY?","answerable":true,"expected_source_file":"AMH.pdf","expected_page":null,"manual_answer_accuracy":null},
+  {"id":"sc1","question":"Who is eligible for the SC post-matric scholarship?","answerable":true,"expected_source_file":"gr6_dscw_sje_02092022.pdf","expected_page":null,"manual_answer_accuracy":null},
+  {"id":"sc2","question":"What expenses does the post-matric scholarship cover?","answerable":true,"expected_source_file":"gr6_dscw_sje_02092022.pdf","expected_page":null,"manual_answer_accuracy":null},
+  {"id":"pk1r","question":"Tell me the yearly PM Kisan support amount.","answerable":true,"expected_source_file":"PMKisanSamanNidhi.pdf","expected_page":null,"manual_answer_accuracy":null},
+  {"id":"sc1r","question":"Which students qualify for the SC post-matric award?","answerable":true,"expected_source_file":"gr6_dscw_sje_02092022.pdf","expected_page":null,"manual_answer_accuracy":null},
+  {"id":"oos1","question":"What is the PM-KISAN amount in Bangladesh?","answerable":false},
+  {"id":"oos2","question":"How do I apply for PM Awas Yojana?","answerable":false},
+  {"id":"oos3","question":"Who won the 2023 cricket world cup?","answerable":false}
+]
